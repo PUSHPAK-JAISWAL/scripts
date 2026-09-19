@@ -1,0 +1,9 @@
+{
+  "name":"dvcs-scripts",
+  "private":true,
+  "description":"Deployment tooling for the DVCS contract. Not part of the CLI or contract themselves",
+  "devDependencies": {
+    "ethers": "^6.17.0",
+    "hardhat": "^3.17.0"
+  
+}
